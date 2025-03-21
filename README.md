@@ -67,6 +67,9 @@ cd resolve-conflict
 - 個人の作業ブランチの更新 → `git rebase`
 - 個人だけで使うリポジトリ → GitHub の PR 画面で解決
 
+> [!NOTE]
+> [merge派、rebase派の記事](https://style.biglobe.co.jp/entry/2022/03/22/090000)  
+
 #### 1. マージ(git merge)で解消する方法
 
 1. 最新のmainブランチを取得
